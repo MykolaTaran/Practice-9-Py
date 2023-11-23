@@ -1,0 +1,5 @@
+This is a sample text.
+Words are separated by spaces and punctuation marks!
+The quick brown fox jumps over the lazy dog.
+Python programming is fun and powerful.
+Artificial Intelligence is changing the world.
